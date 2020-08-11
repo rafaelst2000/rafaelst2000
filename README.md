@@ -4,6 +4,7 @@
   Sou estudante de Sistemas para Internet, formado em Técnico em Informática e atuo como desenvolvedor web com Vue.js, além de focar meus estudos em React :)  
 
 - 🔓 Atualmente busco alcançar o nível de desenvolvedor júnior em React.
+- 📝 Aluno na Origamid
 - 🚀 Cursando o bootcamp Full Stack Developer do IGTI. 
 - ⚔️ Sempre pronto para novos desafios!
 
