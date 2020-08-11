@@ -9,6 +9,8 @@
 - ⚔️ Sempre pronto para novos desafios!
 
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rafaelst2000&show_icons=true" alt="rafaelst2000" /> </p>
+
 <p align="center">
 <a href="https://linkedin.com/in/rafael-trevisan-749892185" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rafael-trevisan-749892185" height="50" width="50" /></a>
 <a href="https://instagram.com/trevizera" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="trevizera" height="50" width="50" /></a>
