@@ -1,11 +1,10 @@
 <h1 align="center">Olá, me chamo Rafael Trevisan</h1>
 <h3 align="center">Desenvolvedor Frontend</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelst2000" alt="rafaelst2000" /> </p>
-  Sou estudante de Sistemas para Internet, formado em Técnico em Informática e atuo como desenvolvedor web com Vue.js, além de focar meus estudos em React :)  
+  Sou estudante de Sistemas para Internet, formado em Técnico em Informática e atuo como desenvolvedor web com Vue.js 
 
-- 🔓 Atualmente busco alcançar o nível de desenvolvedor júnior em React.
+- 🔓 Atualmente busco alcançar o nível de desenvolvedor júnior em Vue.js.
 - 📝 Aluno na Origamid
-- 🚀 Cursando o bootcamp Full Stack Developer do IGTI. 
 - ⚔️ Sempre pronto para novos desafios!
 
 
