@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelst2000" alt="rafaelst2000" /> </p>
   Sou estudante de Sistemas para Internet, formado em Técnico em Informática e atuo como desenvolvedor web com Vue.js 
 
-- 🔓 Atualmente busco alcançar o nível de desenvolvedor júnior em Vue.js.
+- :rocket: Desenvolvedor Frontend Júnior.
 - 📝 Aluno na Origamid
 - ⚔️ Sempre pronto para novos desafios!
 
