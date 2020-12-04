@@ -1,8 +1,6 @@
-# Olá :)
+# Olá, Eu me chamo Rafael Trevisan :)
 
-### Eu me chamo Rafael Trevisan
-
-Sou estudante de Sistemas para Internet, formado em Técnico em Informática e atuo como desenvolvedor web com VueJS.
+<h4> Sou estudante de Sistemas para Internet, formado em Técnico em Informática e atuo como desenvolvedor web com VueJS. </h4>
 
 ### Sobre mim: 
 * Desenvolvedor Frontend Júnior 🚀
@@ -25,7 +23,7 @@ Sou estudante de Sistemas para Internet, formado em Técnico em Informática e a
   <code><img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" width="40" height="40"/></code>&nbsp;
 </p>
 
-**Redes sociais**
+## Let's get in touch!
 <p align="center">
 <a href="https://linkedin.com/in/rafaelst2000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rafael-trevisan-749892185" height="50" width="50" /></a>
 <a href="https://instagram.com/trevizera" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="trevizera" height="50" width="50" /></a>
