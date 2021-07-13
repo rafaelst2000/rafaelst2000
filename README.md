@@ -4,7 +4,7 @@
 
 ### Sobre mim: 
 * Desenvolvedor Frontend Júnior 🚀
-* Aluno na Origamid 📝
+* Aluno na Origamid e no Bootcamp Ignite trilha ReactJS 📝
 * Entusiasta por tecnologia e jogos 😁
  
 ### Minhas tecnologias:
