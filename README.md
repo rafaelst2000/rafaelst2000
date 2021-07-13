@@ -3,7 +3,7 @@
 <h4> Sou estudante de Sistemas para Internet, formado em Técnico em Informática e atuo como desenvolvedor web com VueJS. </h4>
 
 ### Sobre mim: 
-* Desenvolvedor Frontend Júnior 🚀
+* Desenvolvedor Frontend Júnior para Pleno 🚀
 * Aluno na Origamid e no Bootcamp Ignite trilha ReactJS 📝
 * Entusiasta por tecnologia e jogos 😁
  
