@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Prazer,+sou+Rafael+Trevisan;Desenvolvedor+Front-end)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=1000&color=31D6D7&vCenter=true&width=600&lines=Prazer%2C+sou+Rafael+Trevisan;Desenvolvedor+Front-end)](https://git.io/typing-svg)
 
 ### Sobre mim: 
 * Desenvolvedor Frontend Pleno 🚀
