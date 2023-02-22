@@ -2,7 +2,7 @@
 
 ### Sobre mim: 
 * Desenvolvedor Frontend Pleno 🚀
-* Cursando Sistemas para Internet (4º semestre) 🧑‍🎓
+* Cursando Sistemas para Internet (5º semestre) 🧑‍🎓
 * Aluno na Origamid | Frontend 📝
 * Entusiasta por tecnologia e jogos 😁
 
