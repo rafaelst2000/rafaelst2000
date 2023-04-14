@@ -3,7 +3,7 @@
 ### Sobre mim: 
 * Desenvolvedor Frontend Pleno 🚀
 * Cursando Sistemas para Internet (5º semestre) 🧑‍🎓
-* Aluno na Origamid | Frontend 📝
+* Aluno na Rocketseat | Ignite ReactJS 📝
 * Entusiasta por tecnologia e jogos 😁
 
 <div>
@@ -14,7 +14,9 @@
 
 ### Principais skills
 <div style="display: center">
-  <img align="center" alt="HTML" src="https://img.shields.io/badge/VUEJS-3fb27f?style=for-the-badge&logo=vue.js&logoColor=white">
+  <img align="center" alt="Vue" src="https://img.shields.io/badge/VUEJS-3fb27f?style=for-the-badge&logo=vue.js&logoColor=white">
+  <img align="center" alt="React" src="https://img.shields.io/badge/React-149eca?style=for-the-badge&logo=react&logoColor=white">
+  <img align="center" alt="Next" src="https://img.shields.io/badge/Next-2d2d2d?style=for-the-badge&logo=react&logoColor=white">
   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-0367b2?&style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  
