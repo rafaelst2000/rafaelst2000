@@ -2,7 +2,7 @@
 
 ### About me: 
 * 4 years as front-end developer 🚀
-* Internet Systems (5th semester) 🧑‍🎓
+* Internet Systems 🧑‍🎓
 
 <div>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=rafaelst2000&show_icons=true&theme=radical">
